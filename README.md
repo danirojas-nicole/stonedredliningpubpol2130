@@ -15,7 +15,7 @@ Cornell University
 May 14, 2025
 
 
-Links for all parts are provided below (the same parts linked in the branches).
+Links for all parts are provided below (the same parts linked in the branches>files).
 
 
 Group Paper with Data Products: [https://docs.google.com/document/d/1hEcMJ45HS3sUIzKV_lAEBUPQxmNI1YbkeipybGedtus/edit?usp=sharing](url)
